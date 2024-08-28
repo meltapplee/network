@@ -1,0 +1,5 @@
+[core]
+	autocrlf = input
+[user]
+	name = meltapplee
+	eamil = meltapplee@gmail.com

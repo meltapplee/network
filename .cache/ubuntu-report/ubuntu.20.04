@@ -1,0 +1,49 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "QEMU",
+    "Product": "QEMU Virtual Machine",
+    "Family": ""
+  },
+  "BIOS": {
+    "Vendor": "EFI Development Kit II / OVMF",
+    "Version": "0.0.0"
+  },
+  "CPU": {
+    "OpMode": "64-bit",
+    "CPUs": "6",
+    "Threads": "1",
+    "Cores": "6",
+    "Sockets": "1",
+    "Vendor": "0x61",
+    "Family": "",
+    "Model": "0",
+    "Stepping": "0x0",
+    "Name": ""
+  },
+  "Arch": "arm64",
+  "RAM": 4,
+  "Disks": [
+    34.4
+  ],
+  "Partitions": [
+    31.8,
+    1.1
+  ],
+  "Screens": [
+    {
+      "Size": "325mmx203mm",
+      "Resolution": "1280x800",
+      "Frequency": "74.99"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_US",
+  "Timezone": "Etc/UTC"
+}

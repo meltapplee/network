@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="10" last-seen="1724848323"/>
+    <application id="gnome-background-panel.desktop" score="0" last-seen="0"/>
+    <application id="gnome-initial-setup.desktop" score="2" last-seen="1724839047"/>
+    <application id="org.gnome.Terminal.desktop" score="1300" last-seen="1724848312"/>
+    <application id="gnome-control-center.desktop" score="1" last-seen="1724839856"/>
+    <application id="update-manager.desktop" score="0" last-seen="1724839099"/>
+  </context>
+</application-state>
